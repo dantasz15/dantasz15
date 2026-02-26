@@ -3,7 +3,7 @@
 <p align="center">
   🧠 Estudante de Engenharia de Software <br>
   🧠 Estudante de Engenharia Civil <br>
-  🔍 Explorando o mundo da tecnologia com C#, Java, JavaScript, SQL, Power BI, CSS, HTML, <br>
+  🔍 Explorando o mundo da tecnologia com C#, Java, JavaScript, SQL, Power BI, CSS, HTML <br>
   🌎 Brasília - DF | Inglês básico
 </p>
 
