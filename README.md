@@ -2,8 +2,8 @@
 
 <p align="center">
   🧠 Estudante de Engenharia de Software <br>
-  📚 Atualmente aprendendo: Banco de Dados, Fundamentos de Engenharia, Introdução à Computação e Lógica de Programação <br>
-  🔍 Explorando o mundo da tecnologia com C# e Power BI <br>
+  🧠 Estudante de Engenharia Civil <br>
+  🔍 Explorando o mundo da tecnologia com C#, Java, JavaScript, SQL, Power BI, CSS, HTML, <br>
   🌎 Brasília - DF | Inglês básico
 </p>
 
@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  Feito com ❤️ por Gabriel Dantas
+  Feito por Gabriel Dantas
 </div>
