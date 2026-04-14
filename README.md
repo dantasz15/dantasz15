@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Gabriel Dantas 👋</h1>
 
 <p align="center">
-  🧠 Estudante de Engenharia de Software <br>
-  🧠 Estudante de Engenharia Civil <br>
+  🧠 Estudante de Engenharia de Software  <br>
+  🧠 Estudante de Engenharia Civil - Unb <br>
   🔍 Explorando o mundo da tecnologia com C#, Java, JavaScript, SQL, Power BI, CSS, HTML <br>
   🌎 Brasília - DF | Inglês básico
 </p>
@@ -17,14 +17,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldantas&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldantas&showdev&layout=compact&theme=tokyonight" />
-</p>
-</div>
 
 ---
 
